@@ -31,9 +31,14 @@ A `requirements.txt` file will be provided in the future for easy installation o
 ### Intuitive Main Interface
 The main interface of MetaVID, designed for seamless user interaction. Users can easily upload video files, input metadata, and initiate the upload process through intuitive input fields and a prominent "Add" button.
 
+---------------------------------------------------------------------------------------------------------------------------------------
+
 ![MetaVID_2](https://github.com/user-attachments/assets/2223a1ae-f30b-4242-8ccf-57c334a67b7f)
 ### Structured Data Display
 A detailed view of the table displaying all stored video metadata. This table allows users to see essential information at a glance, showcasing the application's efficiency in organizing and managing video data.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
 
 ![MetaVID_3](https://github.com/user-attachments/assets/a62e3cf5-d5d7-4fc8-9592-2e773546326b)
 ### Advanced Search Filters
