@@ -1,5 +1,5 @@
 # MetaVID-project
-Developed MetaVID, a PyQt-based GUI application for managing video metadata at the Établissement Public de Télévision. MetaVID utilizes FFmpeg to extract detailed metadata—such as file size, format, resolution, creation date, and location—from uploaded video files. The extracted data is then stored in a MySQL database, enabling users to search and filter videos by criteria like file size and location. This tool significantly enhances content organization and retrieval, offering an efficient solution for managing large video libraries.
+Developed MetaVID, a PyQt GUI app for video metadata management at Établissement Public de Télévision. It uses FFmpeg to extract metadata (e.g., size, format, date) from videos and stores it in MySQL, allowing users to filter videos by criteria for efficient organization.
 
 ## MetaVID
 
