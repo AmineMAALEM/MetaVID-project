@@ -1,4 +1,5 @@
 # MetaVID-project
+Developed MetaVID, a GUI application using PyQt, for managing video metadata at the Établissement Public de Télévision. it let us extract detailed metadata from uploaded video files, such as file size, format, resolution, creation date, and location. The metadata is stored in a MySQL database, allowing users to filter videos by various criteria . This application improves content organization and retrieval, providing a streamlined solution for managing large video libraries.
 
 ## MetaVID
 
